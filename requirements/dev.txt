@@ -1,0 +1,8 @@
+-r prod.txt
+
+# Testing
+pytest
+pytest-cov
+WebTest
+Faker
+flake8
